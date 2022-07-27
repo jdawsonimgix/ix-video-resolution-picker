@@ -16,7 +16,7 @@ function App() {
     sources: [
       {
         src:
-          'https://assets.imgix.video/videos/girl-reading-book-in-library.mp4',
+          'https://assets.imgix.video/videos/girl-reading-book-in-library.mp4?fm=hls',
         type: 'video/mp4',
       },
     ],
